@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "575208578783",
+    "firebase_url": "https://agrominds-92ec0.firebaseio.com",
+    "project_id": "agrominds-92ec0",
+    "storage_bucket": "agrominds-92ec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575208578783:android:e5a31fe8a8de86c372d36a",
+        "android_client_info": {
+          "package_name": "com.ks.agrominds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575208578783-lp1pukfago6ad0tje50lbkp6m45autt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ks.agrominds",
+            "certificate_hash": "5f57e46b579468ca256706145c44d34d02541539"
+          }
+        },
+        {
+          "client_id": "575208578783-8t5shkfnvoin7kju5nol08as3rb0snv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJV6Eqjf14crRj2uJFaG8o_738W0cdmkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575208578783-8t5shkfnvoin7kju5nol08as3rb0snv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
